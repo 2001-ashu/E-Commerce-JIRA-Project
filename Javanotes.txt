@@ -6,3 +6,4 @@ device that supports the Java Virtual Machine (JVM).
 Java syntax and structure is similar to C-based languages like C++
 and C#. Its robustness, platform-independent compatibility, and strong
 memory management have made it a go-to language for developers worldwide.
+
