@@ -27,6 +27,4 @@ int main() {
     } else {
         printf("\nLogin failed. Incorrect username or password.\n");
     }
-
-    return 0;
 }
